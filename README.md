@@ -1,6 +1,6 @@
 ### 📚 Documents & Proxy
 
-[Documentation](https://sumingcheng.github.io/docs-hub)  . [Proxy Rec](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=YvLa)
+[Documentation](https://sumingcheng.github.io/docs-hub)  . [Proxy Rec](https://bbxy.xn--cesw6hd3s99f.com/v2/register?code=YvLa)
 
 <hr>
 
